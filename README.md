@@ -15,7 +15,7 @@
 
 <html>
 <!-- replace x.x.x with actual version -->
-<script src="https://unpkg.com/@codersrank/summary@1.0.0/codersrank-summary.min.js"></script>
+<script src="https://unpkg.com/@codersrank/summary@0.9.11/codersrank-summary.min.js"></script>
 <codersrank-summary username="rennylangat"></codersrank-summary>
   
 </HTML>
