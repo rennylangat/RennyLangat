@@ -13,4 +13,8 @@
 - 😄 Pronouns: Him/It/They
 - ⚡ Fun fact: I'm funny (hopefully)
 
+<script src="https://unpkg.com/@codersrank/summary@1.0.0/codersrank-summary.min.js"></script>
+
+<codersrank-summary username="rennylangat"></codersrank-summary>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rennylangat)](https://git.io/streak-stats)
