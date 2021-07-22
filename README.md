@@ -10,5 +10,6 @@
 - 💬 Ask me about Android, Flutter/Dart, Firebase
 - 😄 Pronouns: Him
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rennylangat)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rennylangat)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rennylangat)](https://github.com/anuraghazra/github-readme-stats)
+
 
