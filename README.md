@@ -7,10 +7,8 @@
 
 - 🔭 I’m currently working on the next big thing
 - 🌱 I’m currently learning Dart
-- 🤔 I’m looking for help with this life thing
 - 💬 Ask me about Android, Flutter/Dart, Firebase
-- 📫 How to reach me: ...
-- 😄 Pronouns: Him/It/They
-- ⚡ Fun fact: I'm funny (hopefully)
+- 😄 Pronouns: Him
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rennylangat)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rennylangat)](https://github.com/anuraghazra/github-readme-stats)
+
