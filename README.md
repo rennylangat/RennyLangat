@@ -5,7 +5,7 @@
 
 <!--Here are some ideas to get you started:!-->
 
-- 🔭 I’m currently working on the next big thing
+- 🔭 I’m currently working on an NFT platform
 - 🌱 I’m currently learning Dart
 - 💬 Ask me about Android, Flutter/Dart, Firebase
 - 😄 Pronouns: Him
