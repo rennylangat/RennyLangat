@@ -6,8 +6,9 @@
 <!--Here are some ideas to get you started:!-->
 
 - 🔭 I’m currently working on an NFT platform
-- 🌱 I’m currently learning Dart
-- 💬 Ask me about Android, Flutter/Dart, Firebase
+- 🌱 I’m currently learning Dart and Solidity
+- 💬 Ask me about Android, Flutter/Dart, Firebase, Web3
+- 🥷🏽 I can also cook
 - 😄 Pronouns: Him
 
 [![wakatime](https://wakatime.com/badge/user/b44b1356-dee7-4791-a127-91e80dac6093.svg)](https://wakatime.com/@b44b1356-dee7-4791-a127-91e80dac6093) 
