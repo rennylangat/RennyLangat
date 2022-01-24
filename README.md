@@ -13,7 +13,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/b44b1356-dee7-4791-a127-91e80dac6093.svg)](https://wakatime.com/@b44b1356-dee7-4791-a127-91e80dac6093) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rennylangat&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rennylangat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rennylangat&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rennylangat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cyberboolean)](https://github.com/anuraghazra/github-readme-stats)  
 
