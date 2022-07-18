@@ -18,7 +18,6 @@
 
 
 
-<!-- <a href="https://wakatime.com"><img height=400px src="https://wakatime.com/share/@CyberBoolean/70badf7b-de41-497e-9241-6c2f3a80dfb2.png" /></a> !-->
 
 
 
