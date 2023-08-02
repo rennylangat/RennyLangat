@@ -5,9 +5,9 @@
 
 <!--Here are some ideas to get you started:!-->
 
-- 🔭 I’m currently working on Web3 stuff
-- 🌱 I’m currently learning Dart, Javascript, React and Solidity
-- 💬 Ask me about Android, Flutter/Dart, Firebase, Web3
+- 🔭 I’m currently working on some cool stuff
+- 🌱 I’m currently learning Kotlin, Swift, Dart, Javascript and Solidity
+- 💬 Ask me about Android, iOS Development, Flutter/Dart, Firebase, Web3
 - 😄 Pronouns: Him
 
 [![wakatime](https://wakatime.com/badge/user/b44b1356-dee7-4791-a127-91e80dac6093.svg)](https://wakatime.com/@b44b1356-dee7-4791-a127-91e80dac6093) 
