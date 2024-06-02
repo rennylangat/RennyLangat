@@ -1,7 +1,7 @@
 ### Hi there 👋 It's Renny
 
 - 🔭 Always looking towards working on some cool stuff
-- 🌱 Tinker in Dart, JS, TS, Sol, Go 
+- 🌱 Tinker in Dart, JS, TS, Kt, Go 
 - 💬 [Fill in with something fancy from someone famous in the past]
 - 😄 Pronouns: IAM
 
