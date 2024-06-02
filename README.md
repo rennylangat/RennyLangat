@@ -1,16 +1,11 @@
 ### Hi there 👋 It's Renny
 
+- 🔭 Always looking towards working on some cool stuff
+- 🌱 Tinker in Dart, JS, TS, Sol, Go 
+- 💬 [Fill in with something fancy from someone famous in the past]
+- 😄 Pronouns: IAM
 
-<!-- **rennylangat/RennyLangat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!-->
-
-<!--Here are some ideas to get you started:!-->
-
-- 🔭 I’m currently working on some cool stuff
-- 🌱 I’m currently learning Kotlin, Swift, Dart, Javascript and Solidity
-- 💬 Ask me about Android, iOS Development, Flutter/Dart, Firebase, Web3
-- 😄 Pronouns: Him
-
-[![wakatime](https://wakatime.com/badge/user/b44b1356-dee7-4791-a127-91e80dac6093.svg)](https://wakatime.com/@b44b1356-dee7-4791-a127-91e80dac6093) 
+<!-- [![wakatime](https://wakatime.com/badge/user/b44b1356-dee7-4791-a127-91e80dac6093.svg)](https://wakatime.com/@b44b1356-dee7-4791-a127-91e80dac6093) !-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rennylangat&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rennylangat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
